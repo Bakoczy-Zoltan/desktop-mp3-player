@@ -1,0 +1,6 @@
+
+qsquid:S1450"SRemove the "file" field and declare it as a local variable in the relevant methods.(ïÛú8è›‘°Ü-
+ squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(åë·áüÿÿÿÿ8Ÿ¡Ü‡Ü-
+Rsquid:EmptyStatementUsageCheck"Remove this empty statement.(Åñ­õşÿÿÿÿ8Ÿ¡Ü‡Ü-
+gsquid:S2583"DChange this condition so that it does not always evaluate to "false"(ïŸüøÿÿÿÿ8Ÿ¡Ü‡Ü-
+Asquid:S1148"#Use a logger to log this exception.(Ç’Çê8Ÿ¡Ü‡Ü-

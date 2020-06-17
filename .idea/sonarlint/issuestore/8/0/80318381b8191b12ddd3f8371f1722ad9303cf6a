@@ -1,0 +1,4 @@
+
+{squid:S1450"]Remove the "isMusicStopped" field and declare it as a local variable in the relevant methods.(È Ö˜8‰°¡ÈÝ-
+msquid:UnusedPrivateMethod"ARemove this unused private "isStandingOnLastImageInArray" method.(Å‰ØÒ8‰°¡ÈÝ-
+Psquid:S1068"2Remove this unused "isMusicStopped" private field.(È Ö˜8‰°¡ÈÝ-
