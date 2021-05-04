@@ -14,7 +14,7 @@ public class ImagePanel extends JPanel {
     public ImagePanel() {
         this.arrayImg = makeListOfImages();
         this.numberOfImages = arrayImg.length;
-        this.actualImageName = "images/mp3starPictures.png";
+        this.actualImageName = "images/mp3starPicture.png";
     }
 
     @Override
