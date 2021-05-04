@@ -1,8 +1,0 @@
-
-Bsquid:S1148†"#Use a logger to log this exception.(Ç’Çê8‘ÂÚ Ü-
-Ssquid:EmptyStatementUsageCheckÈ"Remove this empty statement.(Åñ­õþÿÿÿÿ8ö¬è¤Ý-
-Bsquid:S1148œ"#Use a logger to log this exception.(Ç’Çê8ŸŒÓ«Ü-
-isquid:CommentedOutCodeLine)"<This block of commented-out lines of code should be removed.(Õßâì8¹·ºÇÝ-
-Ssquid:S1068"0Remove this unused "imageManager" private field.(”«ã¡ÿÿÿÿÿ8îö¶ÇÝ-
-jsquid:CommentedOutCodeLineÚ"<This block of commented-out lines of code should be removed.(¯ðÒë8îö¶ÇÝ-
-nsquid:CommentedOutCodeLinex"<This block of commented-out lines of code should be removed.(ÒÞ¬Ðüÿÿÿÿ8‹‡¶ÇÝ-
